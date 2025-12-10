@@ -1,5 +1,10 @@
 # blossom releases
 
++ quick links
+- risingOS Revived: https://github.com/namb20994-coder/release/releases/tag/rising
+- Lineage 23: https://github.com/namb20994-coder/release/releases/tag/lineage
+- latest extremeNiigo: https://github.com/namb20994-coder/release/releases/tag/kernel4
+
 all the roms/kernel that i built for all blossom devices
 
 you can access in: https://github.com/namb20994-coder/release/releases
