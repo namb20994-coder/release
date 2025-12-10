@@ -1,13 +1,11 @@
-# rom repo for all my build
+# blossom releases
 
-hello guys welcum to my repo
+all the roms/kernel that i built for all blossom devices
 
-my account (on telegram, @ngbnamm, @iaminhel) has been deleted
+you can access in: https://github.com/namb20994-coder/release/releases
 
-so i will move all the file to this repo
+**READ THE RELEASE NOTES BEFORE FLASHING!**
 
-tks ok bye
+ok bye
 
-p/s: i also upload some new rom i build
-
-ok for blossom only dont ask for a new fone suporeteter ewdsz
+![vewwqeyihbaf1](https://github.com/user-attachments/assets/94d3992e-8432-40a9-8aea-993e57eb1b8a)
