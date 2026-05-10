@@ -1,5 +1,8 @@
 # blossom releases
 
+> [!NOTE]
+> i don't build rom for blossom anymore, i already have a new device.
+
 + quick links
 - risingOS Revived: https://github.com/namb20994-coder/release/releases/tag/rising
 - Lineage 23: https://github.com/namb20994-coder/release/releases/tag/lineage
